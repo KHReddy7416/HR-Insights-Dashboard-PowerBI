@@ -16,7 +16,7 @@ The goal of this dashboard is to help you understand key HR insights, like:
 
 These insights can help HR teams make smarter decisions when it comes to hiring, retention, and improving employee satisfaction.
 
-## What You'll Find in the Dashboard
+## Key Features of the Dashboard
 
 Here are the key metrics and charts that you’ll find in the dashboard:
 
